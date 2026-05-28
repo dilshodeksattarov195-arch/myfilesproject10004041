@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsalculate",
+        "uuid": 11306718,
+        "checksum": "uw6tlq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
